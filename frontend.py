@@ -1,5 +1,5 @@
 import streamlit as st
-import osgi
+import os
 
 os.environ['LLM_API_KEY'] = st.secrets['LLM_API_KEY']
 from agent import get_career_recommendation, clarification_graph
