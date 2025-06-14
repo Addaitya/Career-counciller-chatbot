@@ -7,9 +7,9 @@ Recommend career in following fields:
 
 The chat bot asks following 3 questions, if answer of student is not clear it ask for **Clarification**:
 
-    1. Which school subjects do you enjoy the most and why?
-    2. Do you prefer solving problems logically, expressing ideas creatively, or engaging in physical activities?
-    3. Who inspires you more — a scientist/engineer, an artist/writer, or an athlete?
+1. Which school subjects do you enjoy the most and why?
+2. Do you prefer solving problems logically, expressing ideas creatively, or engaging in physical activities?
+3. Who inspires you more — a scientist/engineer, an artist/writer, or an athlete?
 
 ## Prompts 
 Prompts given chatbot are given in file in the current repo:
